@@ -1,0 +1,269 @@
+[2022-11-29 15:58:18.236] [33984] [ INFO] sports News started...
+[2022-11-29 15:58:20.573] [33984] [ERROR] 'import_result'
+[2022-11-29 15:59:38.043] [34064] [ INFO] sports News started...
+[2022-11-29 15:59:40.375] [34064] [ERROR] 'import_result'
+[2022-11-29 16:00:20.188] [34174] [ INFO] sports News started...
+[2022-11-29 16:00:20.399] [34174] [ INFO] [{'oid': '079', 'aid': '0003712294', 'officeName': '노컷뉴스', 'title': '한화 떠났던 오선진, 2년 만에 다시 독수리 품으로', 'subContent': '한화 이글스가 29일 FA 내야수 오선진과 1+1년 최대 4억 원(계약금 1억5000만 원, 연봉 1억 원, 인센티브 2500만 원)에 계약했다고 밝혔다. ...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/079/2022/11/29/3712294.jpg', 'datetime': '2022.11.29 16:00', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 0}, {'oid': '001', 'aid': '0013610866', 'officeName': '연합뉴스', 'title': '프로야구 FA 오선진, 1년 반 만에 한화 복귀…1+1년 4억원 계약(종합)', 'subContent': '한화, 트레이드로 내보냈던 선수들 줄줄이 회수외부 FA 3명 모두 영입한 한화, FA 시장에서 철수한화로 돌아온 오선진자유계약선수 오선진이 29일 대전 한화...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/001/2022/11/29/13610866.jpg', 'datetime': '2022.11.29 15:59', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 12}, {'oid': '117', 'aid': '0003672956', 'officeName': '마이데일리', 'title': "한화, 8년 만에 외부 FA 3명 잡았다…보상선수는 딱 1명 '알짜 쇼핑'", 'subContent': '[마이데일리 = 윤욱재 기자] 작년과 확연히 다른 겨울의 행보다. 한화가 8년 만에 외부 FA 3명을 붙잡고 기분 좋게 FA 시장을 떠났다.한화는 그룹의 화...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/117/2022/11/29/3672956.jpg', 'datetime': '2022.11.29 15:56', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 295}, {'oid': '144', 'aid': '0000852096', 'officeName': '스포츠경향', 'title': '한화, ‘FA 내야수’ 오선진 재영입…외인 영입도 속도 낸다', 'subContent': '오선진이 29일 대전 한화생명이글스파크에서 파이팅 포즈를 하고 있다. 한화 이글스 제공자유계약선수(FA) 신분이던 오선진(33)이 다시 한화 유니폼을 입게 ...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/144/2022/11/29/852096.jpg', 'datetime': '2022.11.29 15:55', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 254}, {'oid': '382', 'aid': '0001018993', 'officeName': '스포츠동아', 'title': '“받은 사랑 보답하기 위해” 부산시민과 온정 나눈 롯데, 기부금 전달 이어 연탄 기부', 'subContent': '사진제공 | 롯데 자이언츠롯데 자이언츠가 연말을 맞아 부산 지역 소외계층에 이웃사랑 나눔을 실천하며 희망의 에너지를 전했다.롯데 구단은 24일 부산 매축지마...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/382/2022/11/29/1018993.jpg', 'datetime': '2022.11.29 15:54', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 56}, {'oid': '109', 'aid': '0004749281', 'officeName': 'OSEN', 'title': '국민타자의 요청…두산 이승엽호, ‘삼성 출신’ 이영수 타격코치 영입', 'subContent': '이영수 코치 / OSEN DB[OSEN=이후광 기자] 새롭게 출범하는 두산 이승엽호가 타격 파트를 책임질 코치를 추가로 영입했다.두산 베어스 소식에 정통한 ...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/109/2022/11/29/4749281.jpg', 'datetime': '2022.11.29 15:48', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 2413}, {'oid': '119', 'aid': '0002662473', 'officeName': '데일리안', 'title': 'FA 오선진, 1+1년 최대 4억원에 한화 복귀', 'subContent': '오선진. ⓒ 한화 이글스[데일리안 = 김윤일 기자] 한화 이글스가 FA 내야수 오선진과 1+1년 최대 4억원에 계약했다.세부 계약 조건은 계약금 1억 500...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/119/2022/11/29/2662473.jpg', 'datetime': '2022.11.29 15:48', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 332}, {'oid': '047', 'aid': '0002374464', 'officeName': '오마이뉴스', 'title': '내부 FA 다 놓친 삼성... 내야 뎁스 괜찮을까?', 'subContent': '▲  삼성은 내부 FA 김상수와 오선진을 모두 놓쳤다 ⓒ kt위즈·한화이글스 삼성이 내부 FA 단속에 실패했다. 2017년 최형우(KIA), 차우찬(전 LG...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/047/2022/11/29/2374464.jpg', 'datetime': '2022.11.29 15:47', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 4466}, {'oid': '047', 'aid': '0002374463', 'officeName': '오마이뉴스', 'title': "'친정팀 리턴' FA 내야수 오선진, 한화와 1+1년 최대 4억원 계약", 'subContent': "[KBO리그] 외부 FA 3명 꽉 채운 한화, 필요한 부분 보강했다트레이드로 팀을 떠났던 베테랑 내야수가 돌아왔다. FA 내야수 오선진의 행선지는 '친정팀'...", 'thumbnail': 'http://imgnews.naver.net/image/thumb154/047/2022/11/29/2374463.jpg', 'datetime': '2022.11.29 15:47', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 1193}, {'oid': '076', 'aid': '0003945009', 'officeName': '스포츠조선', 'title': "'롯데 1R' 김민석, 이영민 타격상 수상…전광열 감독 '김일배 지도자상'", 'subContent': '타격하고 있는 휘문고 김민석. 송정헌 기자songs@sportschosun.com[스포츠조선 이종서 기자] 롯데 자이언츠에 1라운드에 지명된 휘문고 타자 김...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/076/2022/11/29/3945009.jpg', 'datetime': '2022.11.29 15:46', 'url': None, 'sectionName': '야구 일반', 'type': 'PHOTO', 'totalCount': 181}, {'oid': '477', 'aid': '0000397385', 'officeName': '스포티비뉴스', 'title': "선수협 '차기 회장 발표' 취소…리얼글러브 시상식은 예정대로", 'subContent': '[스포티비뉴스=신원철 기자] 양의지 회장의 뒤를 이을 한국프로야구 선수협회(이하 선수협) 차기 회장 발표가 취소됐다. 선수협은 29일 "다음 달 1일 목요일...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/477/2022/11/29/397385.jpg', 'datetime': '2022.11.29 15:44', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 711}, {'oid': '001', 'aid': '0013610737', 'officeName': '연합뉴스', 'title': '득표 1위의 회장직 고사…프로야구 선수협, 선거 방법 등 재논의', 'subContent': '한국프로야구선수협회[한국프로야구선수협회 제공](서울=연합뉴스) 하남직 기자 = 한국프로야구선수협회(선수협) 회장 선거에서 가장 많은 표를 얻은 선수가 회장 ...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/001/2022/11/29/13610737.jpg', 'datetime': '2022.11.29 15:38', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 2800}, {'oid': '477', 'aid': '0000397383', 'officeName': '스포티비뉴스', 'title': "'큰 손' 한화 외부 FA 3명 다 채웠다…그런데 낯설지 않은 이적생", 'subContent': '▲ 낯설지 않은 이적생 한화 오선진(왼쪽)과 이태양. ⓒ 한화 이글스[스포티비뉴스=신원철 기자] 야심차게 스토브리그를 준비한 한화 이글스가 FA 영입 한도를...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/477/2022/11/29/397383.jpg', 'datetime': '2022.11.29 15:37', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 5923}, {'oid': '065', 'aid': '0000238689', 'officeName': '점프볼', 'title': 'KT, 내달 1일·4일 수원 시민과 함께하는 ‘권선구·팔달구 DAY’ 진행', 'subContent': '[점프볼=최서진 기자] KT가 수원시민을 위한 행사를 실시한다. 수원 KT는 29일 보도자료를 통해 “다음달 1일 안양 KGC와의 경기를 ‘권선구 DAY’,...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/065/2022/11/29/238689.jpg', 'datetime': '2022.11.29 15:37', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 143}, {'oid': '025', 'aid': '0003242120', 'officeName': '중앙일보', 'title': '오타니, 마침내 상 받았다…2년 연속 AL 최고 지명타자상', 'subContent': "메이저리그(MLB)에서 투타를 겸업하는 '야구 천재' 오타니 쇼헤이(28·LA 에인절스)가 2년 연속 리그 최고의 지명타자로 인정 받았다. 2년 연속 에드가...", 'thumbnail': 'http://imgnews.naver.net/image/thumb154/025/2022/11/29/3242120.jpg', 'datetime': '2022.11.29 15:31', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 1933}, {'oid': '144', 'aid': '0000852089', 'officeName': '스포츠경향', 'title': 'KT행 김상수는 변하지 않는다 “수원에서도, 사인 당연히 많이 해드릴겁니다”', 'subContent': '김상수. KT 위즈 제공내야수 김상수(32)의 별명은 ‘연쇄사인마’다.야구 팬들에게 어디서든 적극적으로 사인을 잘 해주기 때문이다. 김상수에게서 사인을 받은...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/144/2022/11/29/852089.jpg', 'datetime': '2022.11.29 15:26', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 2925}, {'oid': '417', 'aid': '0000873356', 'officeName': '머니S', 'title': "'내야수' 오선진, 1년 만에 한화 복귀… 1+1년 최대 4억원에 FA 계약", 'subContent': '내야수 오선진이 자유계약선수(FA) 계약을 통해 친정 팀 한화에 복귀했다. /사진= 한화 이글스 자유계약선수(FA) 내야수 오선진이 1년 만에 한화로 복귀한...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/417/2022/11/29/873356.jpg', 'datetime': '2022.11.29 15:14', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 2113}, {'oid': '425', 'aid': '0000134827', 'officeName': '마니아타임즈', 'title': 'kt위즈 내야수 김병희, 내달 4일 한여정양과 백년가약 맺어', 'subContent': 'kt wiz(대표이사 신현옥) 내야수 김병희(32)가 오는 4일 오후 12시 30분 송도 센트럴파크 호텔 4층 릴리홀에서 한여정(33)양과 백년가약을 맺는다...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/425/2022/11/29/134827.jpg', 'datetime': '2022.11.29 15:13', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 1045}, {'oid': '031', 'aid': '0000713617', 'officeName': '아이뉴스24', 'title': 'FA 오선진, 친정팀 한화 컴백 1+1년 최대 4억원 계약', 'subContent': '프로야구 한화 이글스가 올 시즌 세 번째이자 팀 마지막 외부 자유계약선수(FA)를 영입했다. 주인공은 오선진(내야수)이다.한화 구단은 오선진과 FA 계약했다...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/031/2022/11/29/713617.jpg', 'datetime': '2022.11.29 15:02', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 1968}, {'oid': '003', 'aid': '0011564687', 'officeName': '뉴시스', 'title': 'FA 오선진, 친정팀 한화 복귀…1+1년 최대 4억원 계약', 'subContent': '기사내용 요약1년 동안 일정 조건 충족하면 계약 연장[서울=뉴시스] 한화 이글스와 FA 계약을 맺은 오선진(사진 오른쪽)과 손혁 한화 단장. (사진 = 한화...', 'thumbnail': 'http://imgnews.naver.net/image/thumb154/003/2022/11/29/11564687.jpg', 'datetime': '2022.11.29 14:53', 'url': None, 'sectionName': 'KBO리그', 'type': 'PHOTO', 'totalCount': 1648}]
+[2022-11-29 16:00:22.515] [34174] [ERROR] 'import_result'
+[2022-11-29 16:01:08.080] [34263] [ INFO] sports News started...
+[2022-11-29 16:01:10.404] [34263] [ERROR] 'import_result'
+[2022-11-29 16:01:30.754] [34314] [ INFO] sports News started...
+[2022-11-29 16:01:33.053] [34314] [ERROR] 'import_result'
+[2022-11-29 16:02:01.212] [34399] [ INFO] sports News started...
+[2022-11-29 16:02:03.540] [34399] [ERROR] 'import_result'
+[2022-11-29 16:02:32.012] [34459] [ INFO] sports News started...
+[2022-11-29 16:02:34.351] [34459] [ERROR] 'import_result'
+[2022-11-29 16:04:40.315] [34579] [ INFO] sports News started...
+[2022-11-29 16:04:42.777] [34579] [ INFO] Asiae_news Mongo Insert : 0790003712294
+[2022-11-29 16:04:47.520] [34632] [ INFO] sports News started...
+[2022-11-29 16:04:49.914] [34632] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }'}
+[2022-11-29 16:04:54.826] [34677] [ INFO] sports News started...
+[2022-11-29 16:04:57.208] [34677] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }'}
+[2022-11-29 16:05:32.402] [34789] [ INFO] sports News started...
+[2022-11-29 16:05:34.846] [34789] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }'}
+[2022-11-29 16:06:39.564] [34883] [ INFO] sports News started...
+[2022-11-29 16:06:42.017] [34883] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }'}
+[2022-11-29 16:09:10.277] [35150] [ INFO] sports News started...
+[2022-11-29 16:09:12.647] [35150] [ INFO] sports_news Mongo Insert : 0760003945020
+[2022-11-29 16:09:17.748] [35150] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0790003712294" }'}
+[2022-11-29 16:09:19.881] [35150] [ INFO] sports_news Mongo Insert : 0010013610866
+[2022-11-29 16:09:25.024] [35150] [ INFO] sports_news Mongo Insert : 1170003672956
+[2022-11-29 16:09:30.212] [35150] [ INFO] sports_news Mongo Insert : 1440000852096
+[2022-11-29 16:09:35.402] [35150] [ INFO] sports_news Mongo Insert : 3820001018993
+[2022-11-29 16:09:40.477] [35150] [ INFO] sports_news Mongo Insert : 1090004749281
+[2022-11-29 16:09:45.572] [35150] [ INFO] sports_news Mongo Insert : 1190002662473
+[2022-11-29 16:09:50.671] [35150] [ INFO] sports_news Mongo Insert : 0470002374464
+[2022-11-29 16:09:55.807] [35150] [ INFO] sports_news Mongo Insert : 0470002374463
+[2022-11-29 16:10:00.939] [35150] [ INFO] sports_news Mongo Insert : 0760003945009
+[2022-11-29 16:10:06.070] [35150] [ INFO] sports_news Mongo Insert : 4770000397385
+[2022-11-29 16:12:53.154] [35748] [ INFO] sports News started...
+[2022-11-29 16:13:31.412] [35830] [ INFO] sports News started...
+[2022-11-29 16:13:47.635] [35885] [ INFO] sports News started...
+[2022-11-29 16:13:54.540] [35923] [ INFO] sports News started...
+[2022-11-29 16:14:05.751] [35968] [ INFO] sports News started...
+[2022-11-29 16:14:14.960] [36021] [ INFO] sports News started...
+[2022-11-29 16:15:00.294] [36119] [ INFO] sports News started...
+[2022-11-29 16:15:05.271] [36139] [ INFO] sports News started...
+[2022-11-29 16:15:07.675] [36139] [ INFO] sports_news Mongo Insert : 0880000786453
+[2022-11-29 16:15:10.806] [36139] [ INFO] sports_news Mongo Insert : 4250000134830
+[2022-11-29 16:15:13.956] [36139] [ INFO] sports_news Mongo Insert : 1440000852112
+[2022-11-29 16:15:17.073] [36139] [ INFO] sports_news Mongo Insert : 0760003945020
+[2022-11-29 16:15:20.196] [36139] [ INFO] sports_news Mongo Insert : 0790003712294
+[2022-11-29 16:15:23.339] [36139] [ INFO] sports_news Mongo Insert : 0010013610866
+[2022-11-29 16:16:27.637] [36364] [ INFO] sports News started...
+[2022-11-29 16:16:30.016] [36364] [ INFO] sports_news Mongo Insert : 0880000786453
+[2022-11-29 16:16:33.112] [36364] [ INFO] sports_news Mongo Insert : 4250000134830
+[2022-11-29 16:16:36.244] [36364] [ INFO] sports_news Mongo Insert : 1440000852112
+[2022-11-29 16:16:39.383] [36364] [ INFO] sports_news Mongo Insert : 0760003945020
+[2022-11-29 16:16:42.483] [36364] [ INFO] sports_news Mongo Insert : 0790003712294
+[2022-11-29 16:16:45.578] [36364] [ INFO] sports_news Mongo Insert : 0010013610866
+[2022-11-29 16:16:48.693] [36364] [ INFO] sports_news Mongo Insert : 1170003672956
+[2022-11-29 16:16:51.835] [36364] [ INFO] sports_news Mongo Insert : 1440000852096
+[2022-11-29 16:16:54.968] [36364] [ INFO] sports_news Mongo Insert : 3820001018993
+[2022-11-29 16:16:58.115] [36364] [ INFO] sports_news Mongo Insert : 1090004749281
+[2022-11-29 16:17:01.279] [36364] [ INFO] sports_news Mongo Insert : 1190002662473
+[2022-11-29 16:17:04.365] [36364] [ INFO] sports_news Mongo Insert : 0470002374464
+[2022-11-29 16:17:07.565] [36364] [ INFO] sports_news Mongo Insert : 0470002374463
+[2022-11-29 16:17:10.700] [36364] [ INFO] sports_news Mongo Insert : 0760003945009
+[2022-11-29 16:17:13.838] [36364] [ INFO] sports_news Mongo Insert : 4770000397385
+[2022-11-29 16:17:16.975] [36364] [ INFO] sports_news Mongo Insert : 0010013610737
+[2022-11-29 16:17:20.093] [36364] [ INFO] sports_news Mongo Insert : 4770000397383
+[2022-11-29 16:17:23.240] [36364] [ INFO] sports_news Mongo Insert : 0650000238689
+[2022-11-29 16:17:26.377] [36364] [ INFO] sports_news Mongo Insert : 0250003242120
+[2022-11-29 16:17:29.487] [36364] [ INFO] sports_news Mongo Insert : 1440000852089
+[2022-11-29 16:20:25.019] [36780] [ INFO] sports News started...
+[2022-11-29 16:20:27.426] [36780] [ INFO] sports_news Mongo Insert : 3820001019002
+[2022-11-29 16:20:30.525] [36780] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }'}
+[2022-11-29 16:21:21.948] [36901] [ INFO] sports News started...
+[2022-11-29 16:21:24.376] [36901] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }'}
+[2022-11-29 16:21:26.508] [36901] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }'}
+[2022-11-29 16:21:28.635] [36901] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "4250000134830" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "4250000134830" }'}
+[2022-11-29 16:22:44.983] [37071] [ INFO] sports News started...
+[2022-11-29 16:22:44.985] [37071] [ERROR] run() missing 2 required positional arguments: 'res' and 'categ'
+[2022-11-29 16:25:03.935] [37255] [ INFO] sports News started...
+[2022-11-29 16:25:03.937] [37255] [ERROR] run() missing 2 required positional arguments: 'res' and 'categ'
+[2022-11-29 16:25:17.248] [37304] [ INFO] sports News started...
+[2022-11-29 16:25:17.249] [37304] [ERROR] run() missing 2 required positional arguments: 'res' and 'categ'
+[2022-11-29 16:25:32.186] [37357] [ INFO] sports News started...
+[2022-11-29 16:25:34.469] [37357] [ INFO] sports_news Mongo Insert : 1090004749303
+[2022-11-29 16:25:37.609] [37357] [ INFO] sports_news Mongo Insert : 0010013610989
+[2022-11-29 16:25:40.704] [37357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }'}
+[2022-11-29 16:25:42.775] [37357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0880000786453" }'}
+[2022-11-29 16:25:44.918] [37357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "4250000134830" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "4250000134830" }'}
+[2022-11-29 16:25:47.642] [37357] [ INFO] sports_news Mongo Insert : 1390002176027
+[2022-11-29 16:25:50.760] [37357] [ INFO] sports_news Mongo Insert : 1090004749278
+[2022-11-29 16:25:53.899] [37357] [ INFO] sports_news Mongo Insert : 0010013610440
+[2022-11-29 16:25:57.040] [37357] [ INFO] sports_news Mongo Insert : 4770000397368
+[2022-11-29 16:26:00.177] [37357] [ INFO] sports_news Mongo Insert : 4450000087278
+[2022-11-29 16:26:03.328] [37357] [ INFO] sports_news Mongo Insert : 3960000630507
+[2022-11-29 16:26:06.459] [37357] [ INFO] sports_news Mongo Insert : 0760003944967
+[2022-11-29 16:26:09.595] [37357] [ INFO] sports_news Mongo Insert : 1090004749249
+[2022-11-29 16:26:12.772] [37357] [ INFO] sports_news Mongo Insert : 4170000873298
+[2022-11-29 16:26:15.927] [37357] [ INFO] sports_news Mongo Insert : 1090004749243
+[2022-11-29 16:26:19.081] [37357] [ INFO] sports_news Mongo Insert : 0030011564431
+[2022-11-29 16:26:22.169] [37357] [ INFO] sports_news Mongo Insert : 0010013610103
+[2022-11-29 16:26:25.274] [37357] [ INFO] sports_news Mongo Insert : 1170003672911
+[2022-11-29 16:26:28.466] [37357] [ INFO] sports_news Mongo Insert : 4450000087275
+[2022-11-29 16:26:31.550] [37357] [ INFO] sports_news Mongo Insert : 4100000909426
+[2022-11-29 16:26:34.685] [37357] [ INFO] sports_news Mongo Insert : 1090004749234
+[2022-11-29 16:26:37.803] [37357] [ INFO] sports_news Mongo Insert : 1090004749233
+[2022-11-29 16:26:40.990] [37357] [ INFO] sports_news Mongo Insert : 4100000909424
+[2022-11-29 16:26:44.133] [37357] [ INFO] sports_news Mongo Insert : 0310000713556
+[2022-11-29 16:26:47.298] [37357] [ INFO] sports_news Mongo Insert : 4100000909419
+[2022-11-29 16:26:51.109] [37357] [ERROR] 'NoneType' object has no attribute 'select'
+[2022-11-29 16:31:09.555] [38159] [ INFO] sports News started...
+[2022-11-29 16:31:11.837] [38159] [ INFO] sports_news Mongo Insert : 0220003759261
+[2022-11-29 16:31:14.965] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }'}
+[2022-11-29 16:31:17.087] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610989" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610989" }'}
+[2022-11-29 16:31:19.188] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019002" }'}
+[2022-11-29 16:31:21.929] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }'}
+[2022-11-29 16:31:24.095] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }'}
+[2022-11-29 16:31:26.279] [38159] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }'}
+[2022-11-29 16:31:29.083] [38159] [ERROR] 'NoneType' object has no attribute 'select'
+[2022-11-29 16:32:00.931] [38357] [ INFO] sports News started...
+[2022-11-29 16:32:03.211] [38357] [ INFO] sports_news Mongo Insert : 1090004749313
+[2022-11-29 16:32:06.348] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }'}
+[2022-11-29 16:32:08.463] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }'}
+[2022-11-29 16:32:10.591] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610989" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610989" }'}
+[2022-11-29 16:32:13.319] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }'}
+[2022-11-29 16:32:15.418] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }'}
+[2022-11-29 16:32:17.567] [38357] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }'}
+[2022-11-29 16:32:20.292] [38357] [ INFO] sports_news Mongo Insert : 3820001019018
+[2022-11-29 16:32:23.433] [38357] [ERROR] 'NoneType' object has no attribute 'select'
+[2022-11-29 16:34:14.125] [38662] [ INFO] sports News started...
+[2022-11-29 16:34:16.413] [38662] [ INFO] sports_news Mongo Insert : 0010013611031
+[2022-11-29 16:34:19.555] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749313" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749313" }'}
+[2022-11-29 16:34:21.738] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }'}
+[2022-11-29 16:34:23.857] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749303" }'}
+[2022-11-29 16:34:26.578] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }'}
+[2022-11-29 16:34:28.699] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }'}
+[2022-11-29 16:34:30.920] [38662] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }'}
+[2022-11-29 16:34:33.729] [38662] [ERROR] 'NoneType' object has no attribute 'find'
+[2022-11-29 16:36:53.890] [38989] [ INFO] sports News started...
+[2022-11-29 16:36:56.154] [38989] [ INFO] sports_news Mongo Insert : 4100000909443
+[2022-11-29 16:36:59.318] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013611031" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013611031" }'}
+[2022-11-29 16:37:01.438] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749313" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749313" }'}
+[2022-11-29 16:37:03.576] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0220003759261" }'}
+[2022-11-29 16:37:06.306] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1390002176027" }'}
+[2022-11-29 16:37:08.445] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "1090004749278" }'}
+[2022-11-29 16:37:10.656] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "0010013610440" }'}
+[2022-11-29 16:37:13.513] [38989] [ INFO] sports_news Mongo Insert : 0050001569934
+[2022-11-29 16:37:16.661] [38989] [ INFO] sports_news Mongo Insert : 1090004749320
+[2022-11-29 16:37:19.835] [38989] [ INFO] sports_news Mongo Insert : 6400000031931
+[2022-11-29 16:37:22.966] [38989] [ INFO] sports_news Mongo Insert : 0810003320962
+[2022-11-29 16:37:26.108] [38989] [ERROR] E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019018" }, full error: {'index': 0, 'code': 11000, 'errmsg': 'E11000 duplicate key error collection: Naver_News.sports index: _id_ dup key: { : "3820001019018" }'}
+[2022-11-29 16:37:28.403] [38989] [ INFO] sports_news Mongo Insert : 0760003945035
+[2022-11-29 16:37:31.528] [38989] [ INFO] sports_news Mongo Insert : 4680000904546
+[2022-11-29 16:37:34.698] [38989] [ INFO] sports_news Mongo Insert : 0250003242146
+[2022-11-29 16:37:37.851] [38989] [ INFO] sports_news Mongo Insert : 0520001819627
+[2022-11-29 16:37:41.059] [38989] [ INFO] sports_news Mongo Insert : 2410003243313
+[2022-11-29 16:37:44.225] [38989] [ INFO] sports_news Mongo Insert : 0550001016585
+[2022-11-29 16:37:47.394] [38989] [ INFO] sports_news Mongo Insert : 1090004749304
+[2022-11-29 16:37:50.563] [38989] [ INFO] sports_news Mongo Insert : 0030011565109
+[2022-11-29 16:37:53.703] [38989] [ INFO] sports_news Mongo Insert : 0280002617024
+[2022-11-29 16:37:56.846] [38989] [ INFO] sports_news Mongo Insert : 4130000150824
+[2022-11-29 16:38:00.043] [38989] [ INFO] sports_news Mongo Insert : 1440000852116
+[2022-11-29 16:38:03.176] [38989] [ INFO] sports_news Mongo Insert : 0030011565091
+[2022-11-29 16:38:06.512] [38989] [ INFO] sports_news Mongo Insert : 4770000397395
+[2022-11-29 16:38:09.667] [38989] [ INFO] sports_news Mongo Insert : 2770005184660
+[2022-11-29 16:38:12.848] [38989] [ INFO] sports_news Mongo Insert : 0050001569931
+[2022-11-29 16:38:16.632] [38989] [ INFO] sports_news Mongo Insert : 4170000873386
+[2022-11-29 16:38:19.795] [38989] [ INFO] sports_news Mongo Insert : 4130000150825
+[2022-11-29 16:38:22.959] [38989] [ INFO] sports_news Mongo Insert : 4770000397397
+[2022-11-29 16:38:26.136] [38989] [ INFO] sports_news Mongo Insert : 0030011565146
+[2022-11-29 16:38:29.317] [38989] [ INFO] sports_news Mongo Insert : 0030011565145
+[2022-11-29 16:38:32.448] [38989] [ INFO] sports_news Mongo Insert : 1090004749300
+[2022-11-29 16:38:35.578] [38989] [ INFO] sports_news Mongo Insert : 1390002176029
+[2022-11-29 16:38:38.733] [38989] [ INFO] sports_news Mongo Insert : 4110000019559
+[2022-11-29 16:38:41.899] [38989] [ INFO] sports_news Mongo Insert : 4210006489784
+[2022-11-29 16:38:45.069] [38989] [ INFO] sports_news Mongo Insert : 6400000031929
+[2022-11-29 16:38:48.225] [38989] [ INFO] sports_news Mongo Insert : 0880000786456
+[2022-11-29 16:38:51.395] [38989] [ INFO] sports_news Mongo Insert : 4370000323226
+[2022-11-29 16:38:54.500] [38989] [ INFO] sports_news Mongo Insert : 1440000852109
+[2022-11-29 16:38:57.655] [38989] [ INFO] sports_news Mongo Insert : 3430000117685
+[2022-11-29 16:39:00.782] [38989] [ INFO] sports_news Mongo Insert : 2140001238273
+[2022-11-29 16:39:03.927] [38989] [ INFO] sports_news Mongo Insert : 4690000710213
+[2022-11-29 16:39:07.102] [38989] [ INFO] sports_news Mongo Insert : 0010013610829
+[2022-11-29 16:39:10.253] [38989] [ INFO] sports_news Mongo Insert : 0110004127875
+[2022-11-29 16:39:13.482] [38989] [ INFO] sports_news Mongo Insert : 0030011564927
+[2022-11-29 16:39:16.587] [38989] [ INFO] sports_news Mongo Insert : 0030011564922
+[2022-11-29 16:39:20.343] [38989] [ INFO] sports_news Mongo Insert : 3820001019015
+[2022-11-29 16:39:23.463] [38989] [ INFO] sports_news Mongo Insert : 4450000087301
+[2022-11-29 16:39:26.605] [38989] [ INFO] sports_news Mongo Insert : 0010013610758
+[2022-11-29 16:39:29.683] [38989] [ INFO] sports_news Mongo Insert : 0760003945005
+[2022-11-29 16:39:32.856] [38989] [ INFO] sports_news Mongo Insert : 4210006489512
+[2022-11-29 16:39:35.943] [38989] [ INFO] sports_news Mongo Insert : 0650000238688
+[2022-11-29 16:39:39.096] [38989] [ INFO] sports_news Mongo Insert : 0650000238687
+[2022-11-29 16:39:42.236] [38989] [ INFO] sports_news Mongo Insert : 1440000852081
+[2022-11-29 16:39:45.390] [38989] [ INFO] sports_news Mongo Insert : 3510000062062
+[2022-11-29 16:39:48.519] [38989] [ INFO] sports_news Mongo Insert : 3980000062799
+[2022-11-29 16:39:51.642] [38989] [ INFO] sports_news Mongo Insert : 1440000852073
+[2022-11-29 16:39:54.794] [38989] [ INFO] sports_news Mongo Insert : 0650000238686
+[2022-11-29 16:39:57.912] [38989] [ INFO] sports_news Mongo Insert : 3510000062061
+[2022-11-29 16:40:01.164] [38989] [ INFO] sports_news Mongo Insert : 3960000630508
+[2022-11-29 16:40:04.296] [38989] [ INFO] sports_news Mongo Insert : 3980000062798
+[2022-11-29 16:40:07.384] [38989] [ INFO] sports_news Mongo Insert : 3980000062797
+[2022-11-29 16:40:10.474] [38989] [ INFO] sports_news Mongo Insert : 3510000062060
+[2022-11-29 16:40:13.667] [38989] [ INFO] sports_news Mongo Insert : 0760003944960
+[2022-11-29 16:40:16.765] [38989] [ INFO] sports_news Mongo Insert : 1440000852067
+[2022-11-29 16:40:19.920] [38989] [ INFO] sports_news Mongo Insert : 1170003672925
+[2022-11-29 16:40:23.637] [38989] [ INFO] sports_news Mongo Insert : 4480000384505
+[2022-11-29 16:40:26.763] [38989] [ INFO] sports_news Mongo Insert : 4100000909442
+[2022-11-29 16:40:29.907] [38989] [ INFO] sports_news Mongo Insert : 3820001018998
+[2022-11-29 16:40:32.995] [38989] [ INFO] sports_news Mongo Insert : 0470002374469
+[2022-11-29 16:40:36.093] [38989] [ INFO] sports_news Mongo Insert : 4720000026195
+[2022-11-29 16:40:39.213] [38989] [ INFO] sports_news Mongo Insert : 4100000909437
+[2022-11-29 16:40:42.334] [38989] [ INFO] sports_news Mongo Insert : 0570001705970
+[2022-11-29 16:40:45.481] [38989] [ INFO] sports_news Mongo Insert : 6600000022948
+[2022-11-29 16:40:48.615] [38989] [ INFO] sports_news Mongo Insert : 4170000873337
+[2022-11-29 16:40:51.743] [38989] [ INFO] sports_news Mongo Insert : 4210006489316
+[2022-11-29 16:40:54.867] [38989] [ INFO] sports_news Mongo Insert : 0310000713590
+[2022-11-29 16:40:57.984] [38989] [ INFO] sports_news Mongo Insert : 4450000087277
+[2022-11-29 16:41:01.114] [38989] [ INFO] sports_news Mongo Insert : 0230003731482
+[2022-11-29 16:41:04.215] [38989] [ INFO] sports_news Mongo Insert : 4680000904510
+[2022-11-29 16:41:07.350] [38989] [ INFO] sports_news Mongo Insert : 0280002616979
+[2022-11-29 16:41:10.494] [38989] [ INFO] sports_news Mongo Insert : 3110001529948
+[2022-11-29 16:41:13.697] [38989] [ INFO] sports_news Mongo Insert : 0310000713583
+[2022-11-29 16:41:16.845] [38989] [ INFO] sports_news Mongo Insert : 1190002662412
+[2022-11-29 16:41:19.991] [38989] [ INFO] sports_news Mongo Insert : 0010013610144
+[2022-11-29 16:41:23.132] [38989] [ INFO] sports_news Mongo Insert : 0030011564440
+[2022-11-29 16:41:26.944] [38989] [ INFO] sports_news Mongo Insert : 3820001019017
+[2022-11-29 16:41:30.099] [38989] [ INFO] sports_news Mongo Insert : 3820001019016
+[2022-11-29 16:41:33.316] [38989] [ INFO] sports_news Mongo Insert : 0010013611011
+[2022-11-29 16:41:36.443] [38989] [ INFO] sports_news Mongo Insert : 0180005377148
+[2022-11-29 16:41:39.584] [38989] [ INFO] sports_news Mongo Insert : 6400000031926
+[2022-11-29 16:41:42.823] [38989] [ INFO] sports_news Mongo Insert : 1440000852104
+[2022-11-29 16:41:45.948] [38989] [ INFO] sports_news Mongo Insert : 0090005052603
+[2022-11-29 16:41:49.095] [38989] [ INFO] sports_news Mongo Insert : 0010013610825
+[2022-11-29 16:41:52.219] [38989] [ INFO] sports_news Mongo Insert : 4210006489417
+[2022-11-29 16:41:55.457] [38989] [ INFO] sports_news Mongo Insert : 0880000786426
+[2022-11-29 16:41:58.580] [38989] [ INFO] sports_news Mongo Insert : 0090005052552
+[2022-11-29 16:42:01.725] [38989] [ INFO] sports_news Mongo Insert : 4170000873322
+[2022-11-29 16:42:04.934] [38989] [ INFO] sports_news Mongo Insert : 4350000011667
+[2022-11-29 16:42:08.058] [38989] [ INFO] sports_news Mongo Insert : 1090004749252
+[2022-11-29 16:42:11.192] [38989] [ INFO] sports_news Mongo Insert : 0180005376996
+[2022-11-29 16:42:14.328] [38989] [ INFO] sports_news Mongo Insert : 1170003672927
+[2022-11-29 16:42:17.462] [38989] [ INFO] sports_news Mongo Insert : 0010013610202
+[2022-11-29 16:42:20.591] [38989] [ INFO] sports_news Mongo Insert : 3820001018968
+[2022-11-29 16:42:23.718] [38989] [ INFO] sports_news Mongo Insert : 1170003672919
+[2022-11-29 16:42:26.961] [38989] [ INFO] sports_news Mongo Insert : 0030011564402
+[2022-11-29 16:42:30.733] [38989] [ INFO] sports_news Mongo Insert : 0010013611022
+[2022-11-29 16:42:33.928] [38989] [ INFO] sports_news Mongo Insert : 0320003189507
+[2022-11-29 16:42:37.049] [38989] [ INFO] sports_news Mongo Insert : 4480000384503
+[2022-11-29 16:42:40.199] [38989] [ INFO] sports_news Mongo Insert : 4500000089365
+[2022-11-29 16:42:43.307] [38989] [ INFO] sports_news Mongo Insert : 0030011565101
+[2022-11-29 16:42:46.428] [38989] [ INFO] sports_news Mongo Insert : 4810000007888
+[2022-11-29 16:42:49.588] [38989] [ INFO] sports_news Mongo Insert : 0880000786452
+[2022-11-29 16:42:52.751] [38989] [ INFO] sports_news Mongo Insert : 4210006489754
+[2022-11-29 16:42:55.910] [38989] [ INFO] sports_news Mongo Insert : 0520001819607
+[2022-11-29 16:42:59.062] [38989] [ INFO] sports_news Mongo Insert : 0760003945022
+[2022-11-29 16:43:02.194] [38989] [ INFO] sports_news Mongo Insert : 4680000904540
+[2022-11-29 16:43:05.359] [38989] [ INFO] sports_news Mongo Insert : 0760003945018
+[2022-11-29 16:43:08.520] [38989] [ INFO] sports_news Mongo Insert : 1170003672962
+[2022-11-29 16:43:11.698] [38989] [ INFO] sports_news Mongo Insert : 0010013610871
+[2022-11-29 16:43:14.860] [38989] [ INFO] sports_news Mongo Insert : 0760003945014
+[2022-11-29 16:43:17.985] [38989] [ INFO] sports_news Mongo Insert : 1170003672958
+[2022-11-29 16:43:21.151] [38989] [ INFO] sports_news Mongo Insert : 4100000909439
+[2022-11-29 16:43:24.349] [38989] [ INFO] sports_news Mongo Insert : 4250000134828
+[2022-11-29 16:43:27.480] [38989] [ INFO] sports_news Mongo Insert : 4210006489525
+[2022-11-29 16:43:30.701] [38989] [ INFO] sports_news Mongo Insert : 1440000852087
