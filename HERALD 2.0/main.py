@@ -122,7 +122,7 @@ def main():
     for target in TARGETS:
         thread = threading.Thread(target=getLinks, args=(link_queue, target.url))
         thread.daemon = True
-        thread.start
+        thread.start()
 
 
 if __name__ == "__main__":
