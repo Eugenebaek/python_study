@@ -1,9 +1,11 @@
 import asyncio
 import time
 import aiohttp
+import re
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://biz.heraldcorp.com/"
+SAMPLE_ARTICLE = "https://biz.heraldcorp.com/view.php?ud=20221223000069"
 PAGE_LIMIT = 1
 TARGETS = [
     {
@@ -59,9 +61,13 @@ TARGETS = [
 ]
 
 
-async def scrape_urls(url):
+async def scrape_article(article):
+    pass
 
-    page_urls = []
+
+async def scrape_urls(url, category, subcategory):
+
+    articles = []
 
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
@@ -73,25 +79,78 @@ async def scrape_urls(url):
             list = links_page.find_all("li")
 
             if bool(list_head):
+
                 news_slug = list_head.a["href"]
                 news_url = f"https://biz.heraldcorp.com/{news_slug}"
-                page_urls.append(news_url)
+
+                article_date = list_head.find("div", class_="list_date").text
+                news_date = article_date.split()[0].replace(".", "")
+
+                headline = list_head.find("div", class_="list_head_title").text
+
+                article_dict = {
+                    "sid": category,
+                    "sid2": subcategory,
+                    "oid": "016",
+                    "aid": re.search(r"(?<=ud=).*", news_slug).group(),
+                    "news_date": news_date,
+                    "category": category,
+                    "subcategory": subcategory,
+                    "press": "헤럴드경제",
+                    "headline": headline,
+                    "summary": None,
+                    "body_raw": None,
+                    "article_date": article_date,
+                    "article_editdate": None,
+                    "content_url": news_url,
+                    "img_url": None,
+                }
+
+                articles.append(article_dict)
 
             for link in list:
                 news_slug = link.a["href"]
                 news_url = f"https://biz.heraldcorp.com/{news_slug}"
-                page_urls.append(news_url)
 
-            return page_urls
+                article_date = link.find("div", class_="l_date").text
+                news_date = article_date.split()[0].replace(".", "")
+
+                headline = link.find("div", class_="list_title").text
+
+                article_dict = {
+                    "sid": category,
+                    "sid2": subcategory,
+                    "oid": "016",
+                    "aid": re.search(r"(?<=ud=).*", news_slug).group(),
+                    "news_date": news_date,
+                    "category": category,
+                    "subcategory": subcategory,
+                    "press": "헤럴드경제",
+                    "headline": headline,
+                    "summary": None,
+                    "body_raw": None,
+                    "article_date": article_date,
+                    "article_editdate": None,
+                    "content_url": news_url,
+                    "img_url": None,
+                }
+
+                articles.append(article_dict)
+
+            return articles
 
 
-async def create_url_list():
+async def create_article_list():
 
     tasks = []
     for target in TARGETS:
         for page in range(1, PAGE_LIMIT + 1):
             task = asyncio.create_task(
-                scrape_urls(f'{BASE_URL}{target["url"]}&np={str(page)}')
+                scrape_urls(
+                    f'{BASE_URL}{target["url"]}&np={str(page)}',
+                    target["category"],
+                    target["subcategory"],
+                )
             )
             tasks.append(task)
 
@@ -102,5 +161,7 @@ async def create_url_list():
 
 
 if __name__ == "__main__":
-    # Create list of news article URLs
-    url_list = asyncio.run(create_url_list())
+    # Create list of news article
+    article_list = asyncio.run(create_article_list())
+
+    # Fetch information of each article
